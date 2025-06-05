@@ -68,6 +68,29 @@ def main():
 if __name__ == "__main__":
     main()
 
+```
+
+# OUTPUT:
+
+```
+
+Enter your question for the AI tools: Explain the importance of AI in healthcare.
+
+Querying Gemini (Google)...
+
+Querying Hugging Face...
+
+--- AI Tool Outputs ---
+
+Gemini Response:
+Artificial Intelligence (AI) is revolutionizing healthcare by improving diagnostics, treatment planning, and patient care. AI algorithms can analyze vast amounts of medical data to identify patterns and assist doctors in making more accurate diagnoses. It enhances efficiency in hospitals, helps predict disease outbreaks, and enables personalized medicine. Additionally, AI-powered tools support medical imaging, drug discovery, and virtual health assistants, ultimately leading to better outcomes and reduced costs.
+
+Hugging Face Response:
+AI is important in healthcare because it can process large amounts of data quickly. It helps in diagnosing diseases, monitoring patients, and improving overall healthcare services. AI tools assist doctors and researchers in making decisions and discovering new treatments more efficiently.
+
+--- Comparison ---
+Insight: Gemini gave a longer response.
+
 
 ```
 # Result: The corresponding Prompt is executed successfully
